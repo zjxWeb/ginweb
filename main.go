@@ -16,3 +16,5 @@ func main(){
 	//  启动HTTP服务  默认在0.0.0.0:8000
 	r.Run(":8000")
 }
+
+// go get github.com/pilu/fresh 热加载工具
